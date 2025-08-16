@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/1.Project/Personal/Summer/Colorectal_Cancer_Pred/mlruns/0/9a53f24e7cb44e1ba2bc0fea1200f7eb/artifacts
+end_time: 1755312784242
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a53f24e7cb44e1ba2bc0fea1200f7eb
+run_name: stylish-dog-878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755312749735
+status: 3
+tags: []
+user_id: shrey
